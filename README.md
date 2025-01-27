@@ -51,13 +51,35 @@ Proxy（代理模式）</br>
 ### 3. Behavioral Patterns（行为型模式）: 这些模式与对象之间的交互和职责划分相关。
 
 Chain of Responsibility（职责链模式）</br>
+: 是一种行为设计模式，它允许多个对象有机会处理请求，从而避免请求的发送者与接收者之间的耦合。责任链模式将这些对象连成一条链，并沿着这条链传递请求，直到有对象处理它为止。
+
 Command（命令模式）</br>
+: 
+
 Interpreter（解释器模式）</br>
+: 
+
 Iterator（迭代器模式）</br>
+: 
+
 Mediator（中介者模式）</br>
+: 
+
 Memento（备忘录模式）</br>
+: 
+
 Observer（观察者模式）</br>
+: 
+
 State（状态模式）</br>
+: 
+
 Strategy（策略模式）</br>
+: 
+
 Template Method（模板方法模式）</br>
+: 
+
 Visitor（访问者模式）</br>
+: 
+
